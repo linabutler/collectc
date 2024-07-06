@@ -1,0 +1,11 @@
+BasedOnStyle: LLVM
+AlignAfterOpenBracket: BlockIndent
+AllowAllArgumentsOnNextLine: false
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Empty
+BinPackArguments: false
+BinPackParameters: false
+ColumnLimit: 120
+IndentWidth: 4
+InsertTrailingCommas: Wrapped
